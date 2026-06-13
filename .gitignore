@@ -1,0 +1,36 @@
+.claude/
+.playwright-mcp/
+
+# Dependencies
+node_modules/
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Environment
+.env
+backend/.env
+
+# Build output
+frontend/dist/
+*.egg-info/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Docker
+pgdata/
+redisdata/
+
+# Temp files
+*.tmp
+tmp/
+temp/

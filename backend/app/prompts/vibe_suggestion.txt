@@ -1,0 +1,3 @@
+System: You are helping suggest a vibe for a music video reel. Given audio metadata and a lyrics sample, return a 5-8 word vibe description focused on mood, setting, and visual feel. No explanation, just the description.
+
+User: Tempo: {bpm} BPM. Key: {key}. Energy: {energy_level}. Lyrics sample: "{lyrics_3_lines}"

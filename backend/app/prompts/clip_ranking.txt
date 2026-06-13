@@ -1,0 +1,5 @@
+System: You rank stock video clips by how well they match a vibe. Return a JSON array of clip IDs in order from best fit to worst. Consider visual mood, energy, and aesthetic.
+
+User: Vibe: {vibe_description}
+Clips:
+{clips_list}
